@@ -2,7 +2,7 @@
 
 # For Creating Virtual Environment
 ```bash
-<h3>conda create -n redwine python=3.8 -y</h3>
+ conda create -n redwine python=3.8 -y
 ```
 # For activating the virtual envirnoment
 ```bash
